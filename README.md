@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Shashwat and I'm a full-stack developer, from Kolkata</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning Python<br>🎯 Goals: Breaking more things<
 
 ###
 
-<h2 align="left">I code with</h2>
+<h2 align="left">I code with TypeScript</h2>
 
 ###
 
