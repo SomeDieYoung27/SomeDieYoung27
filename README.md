@@ -1,20 +1,7 @@
 
-<h1 align="center">Hi 👋, I'm Shashwat Chaturvedi</h1>
-<h3 align="center">A passionate full-stack developer from Kolkata</h3>
+<h1 align="center">SomeDieYoung_27</h1>
 
-- 🔭 I’m currently working on [NoteWhisper](https://github.com/SomeDieYoung27/NoteWhisper)
-
-- 🌱 I’m currently learning **Python,AWS lambda, Kubernetes, Docker, Spark**
-
-- 👯 I’m looking to collaborate on [PhotoShop-AI](https://github.com/SomeDieYoung27/PhotoShop-AI)
-
-- 🤝 I’m looking for help with [PhotoShop-AI](https://github.com/SomeDieYoung27/PhotoShop-AI)
-
-- 💬 Ask me about **TypeScript,SQL,JavaScript,Node.js,React.js**
-
-- 📫 How to reach me **shashwat12028@gmail.com**
-
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **Typescript is Slop**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
