@@ -1,10 +1,8 @@
 
-<h1 align="center">SomeDieYoung_27</h1>
+<h4 align="center">SomeDieYoung_27</h4>
 
-- ⚡ Fun fact **Typescript is Slop**
+- ⚡ Fun fact "  **Typescript is Slop**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 
