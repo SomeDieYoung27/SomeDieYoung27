@@ -1,5 +1,5 @@
 
-### Applied AI Engineer · Founding Engineer @ SiteMaster
+### Applied AI Engineer 
 Building LLM agents for the construction industry.
 
 - **AI:** agent harnesses & multi-agent orchestration, context engineering, evals, LLM post-training (SFT, on-policy distillation)
